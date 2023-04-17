@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: emoji !important;
+}
+.container {
+    max-width: 49% !important;
+}
+.section-part{
+    margin-top: 8%;
+}
+.contant {
+    background-color: aliceblue;
+    padding: 9% 15% !important;
+}
+.form-icon {
+    background-color: #b8c6d3a6;
+    padding: 8px 15px;
+    border-radius: 3px;
+}
+.addBtn {
+    border: none;
+    background-color: #71a2cd;
+    padding: 2% 7%;
+    border-radius: 3px;
+    color: white;
+    margin-left: 54%;
+}
+.img-contant {
+    position: absolute;
+    top: 32%;
+    left: 11%;
+}
+
+.section-about {
+    position: relative;
+}
+.header {
+    font-size: 55px;
+}
+.img-icon {
+    font-size: 28px;
+    color: #5690c3;
+    
+}
+
+
+
+/* login-page */
+.Login {
+    font-size: 39px;
+}
+.login-part {
+    font-size: 56px;
+}
+.login-form {
+    text-align: center;
+}
+
+
+
+/* index-page */
+.logo-img {
+    width: 35%;
+    height: 50%;
+}
+.container-fluid {
+    max-width: 77%;
+}
+.nav-item {
+    list-style: none;
+}
+.list-link {
+    text-decoration: none;
+    color: #2a77bb;
+    font-size: 24px;
+}
+.nav-btn {
+    border: none;
+    background-color: #5d9dd5;
+    padding: 6px 29px;
+    border-radius: 3px;
+    color: white;
+}
+.box-content{
+    background-color: rgb(136, 163, 194);
+}
+.add-sub{
+    background-color: rgb(24, 53, 92) !important;
+    border: none !important;
+}
+.editBTn{
+    font-size: 27px;
+    background-color: rgb(22, 89, 121) !important;
+    padding: 3px 6px !important;
+    border-radius: 3px;
+    color: white;
+    cursor: pointer;
+}
